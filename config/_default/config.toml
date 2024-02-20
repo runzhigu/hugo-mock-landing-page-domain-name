@@ -10,7 +10,7 @@ defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
 theme = "hugo-bootstrap-theme"
-themesdir = "../.."
+
 
 disableHugoGeneratorInject = true
 enableRobotsTXT = true
