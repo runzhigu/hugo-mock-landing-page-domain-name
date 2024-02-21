@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Virtique</title>
+    <link>https://runzhigu.github.io/hugo-mock-landing-page/</link>
+    <description>Recent content on Virtique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Runzhi Gu</copyright>
+    <lastBuildDate>Wed, 21 Feb 2024 02:47:07 -0500</lastBuildDate>
+    <atom:link href="https://runzhigu.github.io/hugo-mock-landing-page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bootstrap 5.2.0 beta</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</link>
+      <pubDate>Fri, 13 May 2022 13:00:44 +0100</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/post/bootstrap-5-2-0-beta/</guid>
+      <description>{ .img-fluid }&#xA;It’s the biggest release since v5 itself—Bootstrap v5.2.0-beta1 is here! This release features redesigned docs, CSS variables for all our components, responsive offcanvas, new helpers and utilities, refined buttons and inputs, and lots of improvements under the hood.&#xA;Given the size of the update and time since our last release, we’re doing something different and shipping it as a beta first. Keep reading for details.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/about/</guid>
+      <description>About Us Made with ❤️ by the Hugo Bootstrap Theme team.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/contact/</guid>
+      <description>Contact Open an issue on GitHub.</description>
+    </item>
+    <item>
+      <title>Markdown Cheat Sheet Ⓜ️⬇️</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/page/markdown-cheat-sheet/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/page/markdown-cheat-sheet/</guid>
+      <description>Markdown Cheat Sheet Hugo has excellent Markdown support out of the box. By default, Hugo uses the Goldmark Markdown processor which is fully CommonMark-compliant. See the configuration instructions to learn more about the extensions you can configure.&#xA;Overview You can refer to the table below for an overview of basic markdown syntax:&#xA;TASK MARKDOWN SYNTAX Heading 1 # Heading 2 ## Heading 3 ### Italics *italics* Bold **Bold** Strike ~~strike~~ Blockquote &amp;gt; Links [link name](https://link.</description>
+    </item>
+    <item>
+      <title>Sobre</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/about.pt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/about.pt/</guid>
+      <description>Sobre nós Feito com ❤️ pela equipa Hugo Bootstrap Theme.</description>
+    </item>
+  </channel>
+</rss>
