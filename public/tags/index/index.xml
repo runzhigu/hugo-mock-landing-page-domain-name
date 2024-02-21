@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>index on Virtique</title>
+    <link>https://runzhigu.github.io/hugo-mock-landing-page/tags/index/</link>
+    <description>Recent content in index on Virtique</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Runzhi Gu</copyright>
+    <atom:link href="https://runzhigu.github.io/hugo-mock-landing-page/tags/index/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/page/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/page/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Posts</title>
+      <link>https://runzhigu.github.io/hugo-mock-landing-page/post/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://runzhigu.github.io/hugo-mock-landing-page/post/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
