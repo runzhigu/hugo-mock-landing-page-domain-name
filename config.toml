@@ -1,4 +1,5 @@
-baseURL = 'https://runzhigu.github.io/hugo-mock-landing-page/'
+baseURL = 'https://runzhigu.github.io/hugo-mock-landing-page-autodeployed/'
+
 title = "Virtique"
 author = "Runzhi Gu"
 copyright = "Runzhi Gu"
