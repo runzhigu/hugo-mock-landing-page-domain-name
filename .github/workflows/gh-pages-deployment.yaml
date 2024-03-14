@@ -1,0 +1,41 @@
+#######################################################
+## Build and Deploy Hugo Website to GitHub Pages
+## Author: Jérémie Lumbroso <lumbroso@seas.upenn.edu>
+## Date: 2024-02-24
+#######################################################
+
+name: 🏗️ Build and Deploy GitHub Pages
+
+on:
+  push:
+    branches:
+      - main # Set a branch to deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: 🔄 Check Out Source Repository
+        uses: actions/checkout@v3.5.1
+        with:
+          submodules: true # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0 # Fetch all history for .GitInfo and .Lastmod
+
+      - name: 🛠️ Initialize Hugo Environment
+        uses: peaceiris/actions-hugo@v2.6.0
+        with:
+          hugo-version: "0.123.4"
+          extended: true
+
+      - name: 🏗️ Compile Hugo Static Files
+        run: hugo -D --gc --minify
+
+      - name: 🚀 Publish to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3.9.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          user_name: "github-actions[bot]"
+          user_email: "github-actions[bot]@users.noreply.github.com"
+          ## NOTE: uncomment below if using a custom domain
+          ## cname: mydomain.com
