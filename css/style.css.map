@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "style.css",
-	"sourceRoot": "/Users/runzhigu/Desktop/School/2024 Spring/CIS 3500/Project1/hugo-mock-landing-page",
+	"sourceRoot": "/home/runner/work/hugo-mock-landing-page-autodeployed/hugo-mock-landing-page-autodeployed",
 	"sources": [
 		"assets/sass/main.scss",
 		"themes/hugo-bootstrap-theme/assets/sass/bootstrap/_functions.scss",
